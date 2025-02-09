@@ -6,4 +6,4 @@
 
 🔭 Focus on DevOps/MLOps, Cloud Engineering and Big Data
 
-🖤 Passionate about DLT, RPA and the future of transport
+🖤 Passionate about robotics, distributed ledger technology, and the future of transportation
