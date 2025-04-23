@@ -10,7 +10,8 @@
 
 #### 🛠️ Tools & Skills
 
-##### 💻 Programming Languages
+<details>
+<summary>💻 Programming Languages</summary>
 
 ![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)
 ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)
@@ -20,8 +21,10 @@
 ![Rust](https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white)
 ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)
+</details>
 
-##### 🧰 Frameworks & Libraries
+<details>
+<summary>🧰 Frameworks & Libraries</summary>
 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?logo=apache-airflow&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?logo=apache-spark&logoColor=white)
@@ -31,8 +34,10 @@
 ![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB)
 ![Stan](https://img.shields.io/badge/Stan-B2001D.svg?logo=stan&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white)
+</details>
 
-##### ☁️ Cloud & Infrastructure
+<details>
+<summary>☁️ Cloud & Infrastructure</summary>
 
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?logo=ansible&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white)
@@ -41,32 +46,41 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?logo=microsoft-azure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC.svg?logo=terraform&logoColor=white)
+</details>
 
-##### 🗄️ Databases & Big Data
+<details>
+<summary>🗄️ Databases & Big Data</summary>
 
 ![Big Data](https://img.shields.io/badge/Big%20Data-0052CC.svg?logo=apache&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF.svg?logo=apache-hadoop&logoColor=black)
 ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D.svg?logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
+</details>
 
-##### 🔧 DevOps & Tools
+<details>
+<summary>🔧 DevOps & Tools</summary>
 
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-4A154B.svg?logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
 ![IaC](https://img.shields.io/badge/Infrastructure%20as%20Code-7B42BC.svg?logo=terraform&logoColor=white)
+</details>
 
-##### 🧠 Machine Learning & AI
+<details>
+<summary>🧠 Machine Learning & AI</summary>
 
 ![Bayesian Inference](https://img.shields.io/badge/Bayesian%20Inference-B31B1B.svg?logo=bayesian&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-412991.svg?logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00.svg?logo=tensorflow&logoColor=white)
 ![MLOps](https://img.shields.io/badge/MLOps-FF6F00.svg?logo=mlflow&logoColor=white)
 ![Operations Research](https://img.shields.io/badge/Operations%20Research-0062AD.svg?logo=gurobi&logoColor=white)
+</details>
 
-##### 🌐 Other Technologies
+<details>
+<summary>🌐 Other Technologies</summary>
 
 ![Autonomous Vehicles](https://img.shields.io/badge/Autonomous%20Vehicles-FF4500.svg?logo=tesla&logoColor=white)
 ![Blockchain/DLT](https://img.shields.io/badge/Blockchain%2FDLT-121D33.svg?logo=bitcoin&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black)
 ![Network Administration](https://img.shields.io/badge/Network%20Administration-0078D7.svg?logo=cisco&logoColor=white)
 ![System Administration](https://img.shields.io/badge/System%20Administration-FCC624.svg?logo=linux&logoColor=black)
+</details>
