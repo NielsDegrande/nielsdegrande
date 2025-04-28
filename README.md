@@ -8,6 +8,10 @@
 
 🖤 Passionate about robotics, DLT, and the future of transportation
 
+#### 📚 Blog
+
+[![READ MY-BLOG](https://img.shields.io/badge/READ%20MY-BLOG-2d7b5b?style=for-the-badge&logo=rss&logoColor=white&labelColor=42b983)](https://niels.degran.de/blog/index.html)
+
 #### 🛠️ Tools & Skills
 
 <details>
