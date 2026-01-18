@@ -3,7 +3,7 @@
 #### 🚀 About me
 
 I am a software engineer working in AI.
-I am passionate about robotics, distributed ledger technology, and the future of transportation. 
+My interests include robotics, distributed systems, and the future of transportation.
 
 #### 📚 Blog
 
