@@ -32,6 +32,7 @@ My interests include robotics, distributed systems, and the future of transporta
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB)
 ![Stan](https://img.shields.io/badge/Stan-B2001D.svg?logo=stan&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white)
